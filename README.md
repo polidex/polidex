@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @polidex
 - 👀 I’m interested in Games, development, programing, learning
-- :books: I already learned Git, GitHub, HTML, CSS, Javascript, Jest, React, RTL, Redux, Docker, MySQL,
-Node.js, Arquitetura de software, Typescript, P.O.O., S.O.L.I.D.
+- :books: I already learned Git, GitHub, HTML, CSS, Javascript, Jest, React, RTL, Redux, Docker, MySQL, Node.js, Arquitetura de software, Typescript, P.O.O., S.O.L.I.D.
 - 🌱 I’m currently learning MongoDB
 - 💞️ I’m looking to collaborate on Working 
 - 📫 How to reach me Slack ID: U02JG99B04R, [LinkedIn](https://www.linkedin.com/in/polidex/), lp.igor@gmail.com
