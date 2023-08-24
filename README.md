@@ -1,10 +1,10 @@
 Olá! Sou Igor, um profissional de tecnologia com experiência na área da saúde. Como biólogo, desenvolvi habilidades em análise de dados e comunicação técnica que agora aplico na indústria da tecnologia. Sou apaixonado por tecnologia e jogos desde a infância e sempre estou aprendendo sobre as últimas tendências e tecnologias emergentes. Minha formação em pesquisa e resolução de problemas complexos me permite trazer uma perspectiva única para impulsionar o sucesso do seu negócio. Vamos conversar!
 
-- :books: Conhecimentos q já possuo: Git, GitHub, HTML, CSS, Javascript, Jest, React, RTL, Redux, Docker, MySQL, Node.js, Arquitetura de software, Typescript, P.O.O., S.O.L.I.D., MongoDB.
+- :books: Conhecimentos q já possuo: Git, GitHub, HTML, CSS, Javascript, Jest, React, RTL, Redux, Docker, MySQL, Node.js, Arquitetura de software, Typescript, P.O.O., S.O.L.I.D., MongoDB, Python.
 
-- 🌱 Conhecimento que estou aprimorando: Python.
+- 🌱 Conhecimento que estou aprimorando: Linguagem C.
 
-- 📫 Formas de me contatar: Slack ID: U02JG99B04R, [LinkedIn](https://www.linkedin.com/in/polidex/), lp.igor@gmail.com
+- 📫 Formas de me contatar: Slack ID: U02JG99B04R, [LinkedIn](https://www.linkedin.com/in/polidex/), lp.igor@gmail.com, Tel: +55 (11) 97326-3237.
  
 <!--- 
 polidex/polidex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
